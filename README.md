@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/er_anwar" target="blank"><img src="https://img.shields.io/twitter/follow/er_anwar?logo=twitter&style=for-the-badge" alt="er_anwar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohammadanwar](https://github.com/mohammadanwar)
+- 👨‍💻 All of my projects are available at [mohammadanwar](https://github.com/mohammadanwar)
 
-- 📝 I regularly write articles on [https://medium.com/@er_anwar](https://medium.com/@er_anwar)
+- 📝 I regularly write articles on [medium.com](https://medium.com/@er_anwar)
 
-- 💬 Ask me about **MERN Stack, Drupal, AWS**
+- 💬 Ask me about **MERN Stack, Docker, Container, Drupal and AWS**
 
 - 📫 How to reach me **er.mohd.anwar@gmail.com**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/er_anwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_anwar" height="30" width="40" /></a>
+<a href="https://twitter.com/er_anwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_anwar" height="30" width="40" /></a>&nbsp
 <a href="https://linkedin.com/in/mohammad-anwar-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-anwar-siddiqui" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8122103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8122103" height="30" width="40" /></a>
 <a href="https://hashnode.com/@mohammadanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mohammadanwar" height="30" width="40" /></a>
