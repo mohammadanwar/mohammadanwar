@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/er_anwar" target="blank"><img src="https://img.shields.io/twitter/follow/er_anwar?logo=twitter&style=for-the-badge" alt="er_anwar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [mohammadanwar](https://github.com/mohammadanwar)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mohammadanwar)
 
 - 📝 I regularly write articles on [medium.com](https://medium.com/@er_anwar)
 
